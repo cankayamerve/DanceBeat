@@ -41,5 +41,7 @@ The project combines the Unity game engine with MediaPipe technology:
 
 This repository serves as a portfolio showcase demonstrating the project's core logic and code structure. Some local dependencies and large project files may not be included in this repo. Therefore, the project may not be directly executable.
 
-<img width="393" height="657" alt="image" src="https://github.com/user-attachments/assets/e57bc403-c6e3-4152-8e85-f67edb900ddb" />
-<img width="396" height="652" alt="image" src="https://github.com/user-attachments/assets/7eba4fef-caeb-42b3-b2e6-4fee96908c1b" />
+<img width="490" height="812" alt="image" src="https://github.com/user-attachments/assets/589d6a64-1bff-4bdc-b604-4544cb79e9eb" />
+
+<img width="495" height="810" alt="image" src="https://github.com/user-attachments/assets/dca6c832-a332-42e6-b49a-cf93d355bdcf" />
+
